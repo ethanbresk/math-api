@@ -5,10 +5,12 @@ as url parameters and returns the solution as a GET response.
 
 #### Setup:
 ```javascript
-npm install express```
+npm install express
+```
 
 ```javascript
-npm install mathjs```
+npm install mathjs
+```
 
 #### Get started by entering any basic math expression into the url:
 - In the form of …/{expression}
