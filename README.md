@@ -8,7 +8,7 @@ as url parameters and returns the solution as a GET response.
 npm install express mathjs
 ```
 
-#### Get started by entering any basic math expression into the url:
+#### Get started by entering any basic math expression into the url (avoid spaces):
 - In the form of …/{expression}
 
 - For example, /2+3 will return 5. Use * for multiplication, _ for division and +/- for addition/subtraction.
