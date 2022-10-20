@@ -5,9 +5,7 @@ as url parameters and returns the solution as a GET response.
 
 #### Setup:
 ```ruby
-npm install express
-``` ```ruby
-npm install mathjs
+npm install express mathjs
 ```
 
 #### Get started by entering any basic math expression into the url:
