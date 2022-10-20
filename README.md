@@ -1,4 +1,4 @@
-Math API
+# Math API
 
 Hello, welcome to Math API, a Restful API that takes math expressions 
 as url parameters and returns the solution as a GET response.
