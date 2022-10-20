@@ -3,12 +3,12 @@
 Math API is a Restful API that takes math expressions 
 as url parameters and returns the solution as a GET response.
 
-Get started by entering any basic math expression into the url
-> …./{expression}
+###### Get started by entering any basic math expression into the url
+> - …./{expression}
 > 
-> For example, /2+3 will return 5. Use * for multiplication, _ for division and +/- for addition/subtraction.
+> - For example, /2+3 will return 5. Use * for multiplication, _ for division and +/- for addition/subtraction.
 > 
-> Supports sqrt(), abs(), ^ for exponentials, and ! for factorials.
+> - Supports sqrt(), abs(), ^ for exponentials, and ! for factorials.
 
 Alternatively, you can try one of these extensions:
 …./simplify/{expression}
