@@ -6,9 +6,7 @@ as url parameters and returns the solution as a GET response.
 #### Setup:
 ```javascript
 npm install express
-```
 
-```javascript
 npm install mathjs
 ```
 
