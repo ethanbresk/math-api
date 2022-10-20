@@ -13,7 +13,7 @@ npm install express mathjs
 
 - For example, /2+3 will return 5. Use * for multiplication, _ for division and +/- for addition/subtraction.
 
-- Supports sqrt(), abs(), ^ for exponentials, and ! for factorials.
+- Supports sqrt( ), abs( ), ^ for exponentials, and ! for factorials.
 
 #### Alternatively, you can try one of these extensions:
 - …/simplify/{expression}
