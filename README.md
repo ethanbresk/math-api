@@ -4,7 +4,7 @@ Math API is a Restful API that takes math expressions
 as url parameters and returns the solution as a GET response.
 
 #### Setup:
-```javascript
+```js
 npm install express
 
 npm install mathjs
